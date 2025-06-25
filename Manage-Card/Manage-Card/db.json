@@ -1,0 +1,39 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "title": "Responsive UI Card",
+      "description": "A highly responsive and accessible card component built with React and CSS. Designed for modern web layouts.",
+      "author": "Aakash A",
+      "date": "2025-06-24"
+    },
+    {
+      "id": "2",
+      "title": "API Integration Demo",
+      "description": "This card showcases a smooth integration with a mock REST API using json-server and Axios in React.",
+      "author": "Aakash A",
+      "date": "2025-06-22"
+    },
+    {
+      "id": "3",
+      "title": "Card Delete Animation",
+      "description": "Implements clean CSS-based animation for card deletion to provide a visually smooth user experience.",
+      "author": "Aakash A",
+      "date": "2025-06-20"
+    },
+    {
+      "id": "4",
+      "title": "Add Card Feature",
+      "description": "Includes a reusable 'Add Card' component with form state management and conditional rendering logic.",
+      "author": "Aakash A",
+      "date": "2025-06-19"
+    },
+    {
+      "id": "5",
+      "title": "Design System Ready",
+      "description": "This card follows a scalable and modular design system approach using BEM and utility-first CSS.",
+      "author": "Aakash A",
+      "date": "2025-06-18"
+    }
+  ]
+}
